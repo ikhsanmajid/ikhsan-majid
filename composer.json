@@ -1,0 +1,15 @@
+{
+    "name": "ikhsan/linebot",
+    "description": "LineBOT Test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ikhsanmajid",
+            "email": "ikhsanmajid@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.10",
+        "linecorp/line-bot-sdk": "^3.0"
+    }
+}
